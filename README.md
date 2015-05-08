@@ -1,4 +1,7 @@
-# BusHog 
+# BusHog
+Bus tracker for the University of Arkansas bus system.
+
+This repository is not affiliated with the University of Arkansas.
 
 ## Dependencies
 
